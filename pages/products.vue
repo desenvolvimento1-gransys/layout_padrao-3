@@ -1,6 +1,5 @@
 <template>
     <div>
-      <h1>Buscar Produtos</h1>
       <search-products />
     </div>
   </template>
