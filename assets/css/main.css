@@ -1,0 +1,11 @@
+.no-decoration {
+    text-decoration: none !important;
+}
+
+.no-margin {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+body {
+}
